@@ -1,3 +1,16 @@
 body {
-    font-family:'Courier New', Courier, monospace;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #6b3e26;
+}
+p {
+    color: #fffff2;
+}
+a {
+    color:#967259;
+}
+h1 {
+    color:#dbc1ac;
+}
+nav {
+    background-color:#372e29;
 }
