@@ -12,7 +12,9 @@ nav a:visited {
     color:#0000ff;
 }
 nav {
-    background-color:#372e29;
+    background-color:#9c6a42;
+    padding: 10px;
+    margin-bottom: 30px;
 }
 nav a:hover{
     background-color:#38220f;
@@ -24,5 +26,12 @@ h1 {
     color:#dbc1ac;
 }
 .evenrow {
-    background-color: #00d5ff;
+    background-color: #dbc1ac;
+}
+caption {
+    color: #ffffff;
+    font-size: large;
+}
+.portfolio-pic {
+    border: 5px solid #000000;
 }
