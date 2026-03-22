@@ -55,3 +55,6 @@ h2 {
 .quote {
     float: right;
 }
+.clear {
+    clear: both;
+}
