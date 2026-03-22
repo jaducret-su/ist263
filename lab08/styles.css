@@ -1,0 +1,57 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #6b3e26;
+}
+p {
+    color:#fffff2;
+}
+a {
+    color:#bc9f87;
+}
+nav a:visited {
+    color:#0000ff;
+}
+nav {
+    background-color:#9c6a42;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+nav a:hover{
+    background-color:#38220f;
+}
+nav a {
+    color:#fffff2;
+}
+h1 {
+    color:#dbc1ac;
+}
+.evenrow {
+    background-color: #bc9f87;
+}
+caption {
+    color: #ffffff;
+    font-size: large;
+}
+.portfolio-pic {
+    border: 5px solid #000000;
+    float: left;
+    margin-right: 10px;
+}
+.clear {
+    clear: both;
+}
+td {
+    color:#fffff2;
+}
+th {
+    color:#cc9871;
+}
+ul {
+    color:#fffff2;
+}
+h2 {
+    color:#dc9e6f;
+}
+.quote {
+    float: right;
+}
