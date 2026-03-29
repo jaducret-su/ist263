@@ -68,8 +68,3 @@ h2 {
 .left, .right {
     flex: 1;
 }
-
-#header {
-    display: flex;
-    justify-content: center;
-}
