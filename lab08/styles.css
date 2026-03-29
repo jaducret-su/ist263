@@ -69,7 +69,6 @@ h2 {
     flex: 1;
 }
 
-#header {
-    display: flex;
-    justify-content: center;
+#technical-skills {
+    text-align: center;
 }
