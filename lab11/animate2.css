@@ -5,12 +5,14 @@
     animation-direction: reverse;
     animation-iteration-count: 3;
 }
+
 @keyframes first {
     0%   {left:0px; top:0px;}
     33%  {left:200px; top:0px;}
     67%  {left:200px; top:200px;}
     100%  {left:0px; top:200px;}
 }
+
 .shelltwo {
     position: relative;
     animation-name: second;
@@ -18,6 +20,7 @@
     animation-direction: reverse;
     animation-iteration-count: 3;
 }
+
 @keyframes second {
     0%   {left:0px; top:0px;}
     33%  {left:0px; top:200px;}
@@ -32,6 +35,7 @@
     animation-direction: reverse;
     animation-iteration-count: 3;
 }
+
 @keyframes third {
     0%   {left:0px; top:0px;}
     33%  {left: -200px; top:0px;}
